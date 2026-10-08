@@ -1,0 +1,33 @@
+{
+ "updated": "2026-10-08",
+ "bids": [
+  {
+   "bid_no": "GEM/2026/R/696759",
+   "item": "Supply of SS 304H and SS 321H stainless steel round bars (50 mm dia)",
+   "buyer": "JV of CIL, NTPC, IOCL, FCIL & HFCL (Dept. of Fertilizers)",
+   "qty": "52",
+   "end": "2026-07-15"
+  },
+  {
+   "bid_no": "GEM/2026/B/7549231",
+   "item": "AISI 304L stainless steel rods, various diameters (VSSC)",
+   "buyer": "Indian Space Research Organisation, Kerala",
+   "qty": "33500",
+   "end": "2026-06-09"
+  },
+  {
+   "bid_no": "GEM/2026/B/7397664",
+   "item": "Stainless steel bars (austenitic, Ti stabilised), solution annealed, 70x40 mm",
+   "buyer": "BHEL Haridwar",
+   "qty": "",
+   "end": "2026-04-18"
+  },
+  {
+   "bid_no": "GEM/2025/B/7028107",
+   "item": "AISI 304 black bars and pipes (HMT raw material)",
+   "buyer": "HMT",
+   "qty": "",
+   "end": "2026-01-01"
+  }
+ ]
+}
